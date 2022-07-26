@@ -1,0 +1,17 @@
+syntax on
+set autoindent
+set smarttab
+set tabstop=4
+set hlsearch
+set ignorecase
+set incsearch
+set smartcase
+set scrolloff=5
+set wrap
+set laststatus=2
+set ruler
+set cursorline
+set noerrorbells
+set title
+set background=dark
+set history=1000
